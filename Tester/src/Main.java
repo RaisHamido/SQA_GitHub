@@ -23,7 +23,6 @@ public class Main {
 	  print(p_out);
 	  System.out.println("change file");
 	  System.out.println("change2 file");
-	  System.out.println("change3 file");
 	  
 	  
 	
