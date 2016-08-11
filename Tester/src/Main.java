@@ -21,6 +21,7 @@ public class Main {
 	  p_in.flush();
 	  p_in.close();
 	  print(p_out);	
+	  System.out.println("hello Git");
    }
    
    public static void print(BufferedReader _BufferedReader) throws IOException{
