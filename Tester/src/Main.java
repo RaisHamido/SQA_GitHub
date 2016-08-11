@@ -21,13 +21,7 @@ public class Main {
 	  p_in.flush();
 	  p_in.close();
 	  print(p_out);
-	  System.out.println("change file");
-	  System.out.println("change2 file");
-	  System.out.println("change3 file");
-	  System.out.println("change4 file");
-	  System.out.println("change5 file");
-	  
-	
+	  System.out.println("change file");	
    }
    
    public static void print(BufferedReader _BufferedReader) throws IOException{
