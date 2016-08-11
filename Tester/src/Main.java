@@ -20,8 +20,7 @@ public class Main {
 	  p_in.write("1\n1\n1\n1");
 	  p_in.flush();
 	  p_in.close();
-	  print(p_out);
-	  System.out.println("change file");	
+	  print(p_out);	
    }
    
    public static void print(BufferedReader _BufferedReader) throws IOException{
